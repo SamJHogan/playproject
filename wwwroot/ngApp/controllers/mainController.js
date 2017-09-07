@@ -3,5 +3,5 @@ class MainController {
         this.message = $resource.getProducts();
     }
 
-    getProducts 
+    getProduct
 }
