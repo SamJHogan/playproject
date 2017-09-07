@@ -1,5 +1,5 @@
 class MainController {
-    constructor() {
+    constructor($resource) {
         this.message = "hello from main";
     }
 }
